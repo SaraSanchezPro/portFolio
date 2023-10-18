@@ -1,0 +1,38 @@
+
+.landingContainer {
+    background-color: #FBE7D9;
+    height: auto;
+    width: auto;
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+    gap: 5%;
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 50%;
+    gap: 7%;
+    font-family: 'Nunito', sans-serif;
+}
+
+.name h1 {
+    font-weight: bolder;
+}
+
+.name p {
+    text-align: justify;
+    font-weight: lighter;
+    color: grey;
+}
+
+.centerImage img {
+    max-width: 500px;
+    height: auto;
+}

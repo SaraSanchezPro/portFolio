@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+
+/* To avoid indesired spaces */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  /* Fonts */
+
+  /* font-family: 'Nothing You Could Do', cursive; */
+  @import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
+
+
+  /* font-family: 'Nunito', sans-serif; */
+
+  @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;500;600;700;1000&display=swap');

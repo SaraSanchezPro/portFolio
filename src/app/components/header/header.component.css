@@ -1,0 +1,32 @@
+.headerContainer{
+    top:0;
+    left:0;
+    width: 100%;
+    height: 13vh;
+    z-index: 9999;
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;
+    font-family: 'Nothing You Could Do', cursive;
+    background-color: #FDFDFF;
+}
+
+
+.left img{
+    width: auto;
+    height: 100%;
+    padding-left: 40px;
+}
+
+.right{
+    width: 500px;
+    display: flex;
+    align-items: flex-end;
+    gap: 10%;
+    height: auto;
+    color: black;
+    padding-right: 40px;
+    padding-bottom: 16px;
+    font-size: 15pt;
+}
+
